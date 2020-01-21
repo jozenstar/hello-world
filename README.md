@@ -1,2 +1,2 @@
 # hello-world
-# My name is Artour and i am wondering how should i name my daughter
+# My name is Arthur and i've named my daughter Leia :)
